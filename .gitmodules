@@ -1,0 +1,6 @@
+[submodule "rbtree"]
+	path = rbtree
+	url = https://github.com/John-sanpe/light-rbtree.git
+[submodule "list"]
+	path = list
+	url = https://github.com/John-sanpe/light-list.git
